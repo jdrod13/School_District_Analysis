@@ -19,7 +19,7 @@
 ## Analysis 
    
    
-   **First, one of the most important is to clean de data so that all-out analysis comes with detailed and understandable results. Also, after having studied and observed our data, I realized that there were some discrepancies from the academic dishonesty results of 9 grades at Thomas high school. Therefore, it was decided to implement their math and reading scores with NaNs function in our code and keep the rest of the data intact; also the was shown in our analysis an extensive list of unique prefixes and suffixes from the names, such as Mr,Mrs, Ms, Miss, MD , PH.d , etc.. so we realized a function in our code to delete those prefix and make our data cleaner.**    
+   **First, one of the most important steps is to clean de data so that all-out analysis comes with detailed and understandable results. Also, after having studied and observed our data, I realized that there were some discrepancies from the academic dishonesty results of 9 grades at Thomas high school. Therefore, it was decided to implement their math and reading scores with NaNs function in our code and keep the rest of the data intact; also the was shown in our analysis an extensive list of unique prefixes and suffixes from the names, such as Mr,Mrs, Ms, Miss, MD , PH.d , etc.. so we realized a function in our code to delete those prefix and make our data cleaner.**    
 
 ## Results
 
