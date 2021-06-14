@@ -1,0 +1,2 @@
+# School_District_Analysis
+On this project, we collaborated with Maria, the chief data scientist from the city school system responsible for analyzing information in many formats. Maria's task is to prepare all standardized test data for analysis, reporting, and presentations to provide feedback and insights about performance trends and patterns. Ultimately, these insights are used to make discussions and important decisions at the school and district level.
